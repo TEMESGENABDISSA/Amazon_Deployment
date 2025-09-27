@@ -1,5 +1,5 @@
-#Amazon_Project
+# Amazon_Project
 
-#Backend_Deployment: amazon-backend-deployment.vercel.app
+# Backend_Deployment: amazon-backend-deployment.vercel.app
 
-#Author: Temesgen Abdissa
+# Author: Temesgen Abdissa
